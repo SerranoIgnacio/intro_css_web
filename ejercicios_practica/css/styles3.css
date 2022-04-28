@@ -31,3 +31,9 @@ font-size: 25px;
   justify-content: space-around;
   width: 100%;
 }
+
+img {
+  border-bottom: 1px solid rgba(187, 187, 187, 0.445);
+  border-radius: 20px;
+  background-color: #edf2f4;
+}
